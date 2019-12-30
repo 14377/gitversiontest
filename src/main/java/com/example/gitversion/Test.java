@@ -14,8 +14,5 @@ public class Test {
     public String response2(){
         return "success";
     }
-    @RequestMapping("/test3")
-    public String response3(){
-        return "success";
-    }
+
 }
