@@ -10,4 +10,8 @@ public class Test {
     public String response(){
         return "success";
     }
+    @RequestMapping("/test2")
+    public String response2(){
+        return "success";
+    }
 }
