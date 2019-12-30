@@ -18,4 +18,9 @@ public class Test {
     public String response3(){
         return "success";
     }
+
+    @RequestMapping("/test4")
+    public String response4() {
+        return "success";
+    }
 }
