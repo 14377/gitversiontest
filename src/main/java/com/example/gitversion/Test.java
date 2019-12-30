@@ -10,8 +10,8 @@ public class Test {
     public String response(){
         return "success";
     }
-    @RequestMapping("/test5")
-    public String response5() {
+    @RequestMapping("/test3")
+    public String response3() {
         return "success";
     }
 }
